@@ -52,7 +52,7 @@ function handleDropdownChange() {
   } else if (selected === '淡江大學教育科技學系') {
     window.open('https://www.et.tku.edu.tw/', '_blank');
   } else if (selected === '第三周') {
-    window.open('https://hackmd.io/@CJia/r1X97tzsJe', '_blank');
+    window.open('https://cj0968-jia.github.io/0310/');
   }
 }
 
